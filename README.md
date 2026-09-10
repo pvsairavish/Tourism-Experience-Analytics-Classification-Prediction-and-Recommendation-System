@@ -9,7 +9,7 @@
 
 **Try the live application here:**
 
-👉 [[[https://emipredict-ai-v3fzk4nptkzeovgkngp9kg.streamlit.app/](https://psfupxz2vfw24yip7pljyo.streamlit.app/)]([https://emipredict-ai-4usmwappd7yvakbjs3rwssi.streamlit.app/](https://psfupxz2vfw24yip7pljyo.streamlit.app/))]
+👉 [(https://psfupxz2vfw24yip7pljyo.streamlit.app/)](https://psfupxz2vfw24yip7pljyo.streamlit.app/)]
 
 ### Classification • Rating Prediction • Personalized Recommendation System
 
