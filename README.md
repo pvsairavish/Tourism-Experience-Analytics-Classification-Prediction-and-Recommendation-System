@@ -1,6 +1,16 @@
 # Tourism-Experience-Analytics-Classification-Prediction-and-Recommendation-System
 
 # ✈️ Tourism Experience Analytics
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-red)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification%20%7C%20Regression-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+## 🚀 Live Demo
+
+**Try the live application here:**
+
+👉 [[[https://emipredict-ai-v3fzk4nptkzeovgkngp9kg.streamlit.app/](https://psfupxz2vfw24yip7pljyo.streamlit.app/)]([https://emipredict-ai-4usmwappd7yvakbjs3rwssi.streamlit.app/](https://psfupxz2vfw24yip7pljyo.streamlit.app/))]
+
 ### Classification • Rating Prediction • Personalized Recommendation System
 
 ---
